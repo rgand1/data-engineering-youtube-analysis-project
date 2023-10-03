@@ -83,4 +83,4 @@ The dashboard is designed to address the following key questions:
 
 3. **How did the views differ per category for the different regions?** - The dashboard provides a region-wise breakdown of views across different video categories, enabling users to understand variations in viewership.
 
-![PDF](Sheet_1_2023-09-26T13_55_14.pdf)
+[Link to PDF](https://github.com/rgand1/data-engineering-youtube-analysis-project/blob/main/Sheet_1_2023-09-26T13_55_14.pdf)
