@@ -84,3 +84,7 @@ The dashboard is designed to address the following key questions:
 3. **How did the views differ per category for the different regions?** - The dashboard provides a region-wise breakdown of views across different video categories, enabling users to understand variations in viewership.
 
 ![Image Alt Text](dashboard.jpg)
+
+## Acknowledgments
+
+Darshil Parmar
